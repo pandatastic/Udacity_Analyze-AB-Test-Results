@@ -17,6 +17,6 @@ Logistic regression was performed.
 Added extra independent variable of _country_ to see if this affected the conversion ratio.
 
 ## Conclusion
-<li>Fail to reject null hypothesis: old landing page is *not overpermormed* by the new landing page.</li>
+<li>Fail to reject null hypothesis: old landing page is not inferior to the new landing page.</li>
 <li>The user's geoip country did not have an impact on conversion ratio.</li>
 <li>New landing page should not be launched pending new data points.</li>
